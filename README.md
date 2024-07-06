@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/nusaifpk" target="blank"><img src="https://img.shields.io/twitter/follow/nusaifpk P?logo=linkedin&style=for-the-badge" alt="Nusaif P K" /></a> </p>
 
-- 🔭 I’m currently working on [Hotel Booking App](https://stay-find-clone-frontend.vercel.app/) 
+- 🔭 I’m currently working on [STAYFIND - Hotel Booking App](https://stay-find-clone-frontend.vercel.app/) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/nusaifpk]
 
